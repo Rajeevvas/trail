@@ -1,0 +1,7 @@
+Type "Control Panel" and click on the matching search result to open the Control Panel.
+In the Control Panel, change the "View by" option to "Large icons" or "Small icons" to make it easier to find the necessary settings.
+Locate and click on the "User Accounts" or "User Accounts and Family Safety" option. The exact name may vary depending on the version of Windows you're using.
+Look for the "Manage User Accounts" or "Manage another account" option and click on it.
+You should see a list of user accounts on your laptop. Select the user account that you want to rename.
+Click on the "Properties" or "Change the account name" option.
+Enter the new name you want to assign to the user account and click on "OK" or "Change Name" to save the changes.
